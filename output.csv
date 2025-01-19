@@ -1,0 +1,6 @@
+OrderID,ProductName,Quantity,Price,Total,Date,CustomerID
+1001,Shoes,2,50,100,2025-01-15,C001
+1002,T-Shirt,1,20,20,2025-01-16,C002
+1003,Jacket,1,80,80,2025-01-17,C003
+1004,Pants,2,40,80,2025-01-18,C004
+1005,Socks,6,10,60,2025-01-19,C005

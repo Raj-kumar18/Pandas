@@ -1,0 +1,140 @@
+{
+    "sales": [
+      {
+        "OrderID": 1001,
+        "ProductName": "Shoes",
+        "Quantity": 2,
+        "Price": 50,
+        "Total": 100,
+        "Date": "2025-01-15",
+        "CustomerID": "C001"
+      },
+      {
+        "OrderID": 1002,
+        "ProductName": "T-Shirt",
+        "Quantity": 1,
+        "Price": 20,
+        "Total": 20,
+        "Date": "2025-01-16",
+        "CustomerID": "C002"
+      },
+      {
+        "OrderID": 1003,
+        "ProductName": "Jacket",
+        "Quantity": 1,
+        "Price": 80,
+        "Total": 80,
+        "Date": "2025-01-17",
+        "CustomerID": "C003"
+      },
+      {
+        "OrderID": 1004,
+        "ProductName": "Hat",
+        "Quantity": 3,
+        "Price": 15,
+        "Total": 45,
+        "Date": "2025-01-18",
+        "CustomerID": "C004"
+      },
+      {
+        "OrderID": 1005,
+        "ProductName": "Socks",
+        "Quantity": 5,
+        "Price": 10,
+        "Total": 50,
+        "Date": "2025-01-19",
+        "CustomerID": "C005"
+      },
+      {
+        "OrderID": 1006,
+        "ProductName": "Jeans",
+        "Quantity": 2,
+        "Price": 40,
+        "Total": 80,
+        "Date": "2025-01-19",
+        "CustomerID": "C006"
+      },
+      {
+        "OrderID": 1007,
+        "ProductName": "Scarf",
+        "Quantity": 1,
+        "Price": 25,
+        "Total": 25,
+        "Date": "2025-01-20",
+        "CustomerID": "C007"
+      },
+      {
+        "OrderID": 1008,
+        "ProductName": "Gloves",
+        "Quantity": 2,
+        "Price": 15,
+        "Total": 30,
+        "Date": "2025-01-20",
+        "CustomerID": "C008"
+      },
+      {
+        "OrderID": 1009,
+        "ProductName": "Shirt",
+        "Quantity": 1,
+        "Price": 30,
+        "Total": 30,
+        "Date": "2025-01-21",
+        "CustomerID": "C009"
+      },
+      {
+        "OrderID": 1010,
+        "ProductName": "Sweater",
+        "Quantity": 1,
+        "Price": 60,
+        "Total": 60,
+        "Date": "2025-01-22",
+        "CustomerID": "C010"
+      },
+      {
+        "OrderID": 1011,
+        "ProductName": "Shoes",
+        "Quantity": 3,
+        "Price": 50,
+        "Total": 150,
+        "Date": "2025-01-23",
+        "CustomerID": "C011"
+      },
+      {
+        "OrderID": 1012,
+        "ProductName": "T-Shirt",
+        "Quantity": 2,
+        "Price": 20,
+        "Total": 40,
+        "Date": "2025-01-24",
+        "CustomerID": "C012"
+      },
+      {
+        "OrderID": 1013,
+        "ProductName": "Jacket",
+        "Quantity": 1,
+        "Price": 80,
+        "Total": 80,
+        "Date": "2025-01-25",
+        "CustomerID": "C013"
+      },
+      {
+        "OrderID": 1014,
+        "ProductName": "Hat",
+        "Quantity": 2,
+        "Price": 15,
+        "Total": 30,
+        "Date": "2025-01-26",
+        "CustomerID": "C014"
+      },
+      {
+        "OrderID": 1015,
+        "ProductName": "Socks",
+        "Quantity": 6,
+        "Price": 10,
+        "Total": 60,
+        "Date": "2025-01-27",
+        "CustomerID": "C015"
+      }
+    ]
+  }
+  
